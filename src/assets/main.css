@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#app{
+  width: 100%;
+  margin: 0;
+}
+
+.team-nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.team-nav .add-btn {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+/* background: #80ed99; */
+  /* box-shadow: 0 5px #57cc99; */
+}
+/* .team-nav .add-btn:hover {
+  box-shadow: 0 3px #57cc99;
+  top: 1px;
+}
+.team-nav .add-btn:active {
+   box-shadow: 0 0 #57cc99;
+  top: 5px;
+}
+ */
+

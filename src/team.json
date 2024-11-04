@@ -1,0 +1,31 @@
+{
+    "name":"smaily",
+    "spots":6,
+    "members":[
+      {
+        "name": "hassan",
+        "email": "has8hid@gmail.com",
+        "status": "active"
+      },
+      {
+        "name": "ali",
+        "email": "ali@gmail.com",
+        "status": "active"
+      },
+      {
+        "name": "muahmoud",
+        "email": "muh@gmail.com",
+        "status": "active"
+      },
+      {
+        "name": "bakila",
+        "email": "konifa@gmail.com",
+        "status": "active"
+      },
+      {
+        "name": "sura",
+        "email": "lovlymother@gmail.com",
+        "status": "active"
+      }
+    ]
+}
